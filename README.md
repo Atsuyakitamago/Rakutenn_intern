@@ -1,9 +1,17 @@
-# mother-bot
-this is a healing line bot for tired people.
+# Pal-Puppy
+This is **a healing LINE bot for tired people**.  
+The character of LINE bot is a **puppy**.
+Pal in 'Pal-Puppy' means **'友達'**.
+
+
+![pal-puppy](https://user-images.githubusercontent.com/83711779/195744061-46eaf15c-5a85-48c7-aea1-8272c8984e52.png)
+
+
+
 
 ## how to use
 
-### Python version(maybe 3.7.10)
+### Python version(3.7.10)
 1. create a line bot account and get channel access token and channel secret.
 2. create a server on Render
    1. select python as language
@@ -16,7 +24,7 @@ this is a healing line bot for tired people.
    - ex) https://mother-go.onrender.com/callback
 4. enable webhook in webhook settings
 
-<img src="./img/webhook_url.png">
+
 
 ## Reference
 
