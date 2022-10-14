@@ -1,4 +1,5 @@
 # Pal-Puppy
+This is a product our team created during an internship at **Rakuten, Inc**.  
 This is **a healing LINE bot for tired people**.  
 The character of LINE bot is a **puppy**.
 Pal in 'Pal-Puppy' means **'友達'**.
