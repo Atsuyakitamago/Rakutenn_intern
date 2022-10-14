@@ -1,0 +1,6 @@
+.env
+.venv/
+myvenv
+*.db
+__pycache__/
+img/webhook_url.png
